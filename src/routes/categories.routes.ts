@@ -4,7 +4,6 @@ import { CategoriesRepository } from "../modules/cars/repositories/CategoriesRep
 import { CreateCategoryService } from "../modules/cars/services/CreateCategoryService";
 
 const categoriesRoutes = Router();
-const specificationsRoutes = Router();
 
 const categoriesRepository = new CategoriesRepository();
 
