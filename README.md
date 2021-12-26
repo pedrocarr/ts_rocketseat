@@ -6,6 +6,6 @@ this repo is about the rocket seat node js trainning
 
 im gonna finsih that before february 
 
-if god helps me 
+if god helps me I'm gonna get there !!!!
 
 
