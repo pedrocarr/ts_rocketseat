@@ -8,4 +8,6 @@ im gonna finsih that before february
 
 if god helps me I'm gonna get there !!!!
 
+the next year I'm gonna get a job abroad!!!
+
 
