@@ -5,7 +5,9 @@ import fs from "fs";
 import { ICategoriesRepository } from "../../repositories/ICategoriesRepository";
 
 class ImportCategoryUseCase {
-  constructor(private categoriesRepository: ICategoriesRepository) {}
+  constructor(private categoriesRepository: ICategoriesRepository) {
+    console.log("I am here");
+  }
   execute(file: Express.Multer.File): void {
     const stream = fs.createReadStream(file.path);
 
