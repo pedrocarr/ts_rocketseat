@@ -10,4 +10,6 @@ if god helps me I'm gonna get there !!!!
 
 the next year I'm gonna get a job abroad!!!
 
+I'm gonna go to gerencianet
+
 
